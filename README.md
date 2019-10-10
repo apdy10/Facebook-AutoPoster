@@ -1,6 +1,6 @@
 # Facebook-AutoPoster
 
-* Automating Boring Stuff with python *
+* Automating Boring Stuff with python 
 
 
 
